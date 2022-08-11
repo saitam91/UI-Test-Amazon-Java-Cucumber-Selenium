@@ -23,7 +23,7 @@ public class BasePage {
     
  
     static{
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\msilv\\OneDrive\\Documentos\\AutomationTesting\\chromedriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","src/test/resources/chromedriver.exe");
         ChromeOptions chromeoptions = new ChromeOptions();
         driver = new ChromeDriver(chromeoptions);
         wait = new WebDriverWait(driver,30);
