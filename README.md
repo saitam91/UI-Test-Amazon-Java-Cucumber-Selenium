@@ -2,6 +2,13 @@
 
 ## Resume:
 * This automated UI test framework was created based on BDD carrying out the best testing practices.
+
+* Using Page Object Model (POM) as a design pattern.
+
+* To verify web-based application testing performs expectedly, Selenium WebDriver was used.
+
+-----------------------  
+
 * To achieve this test framework, test cases in Amazon web page following this steps were created:
 
   **1. Navigate to Amazon web page.**
