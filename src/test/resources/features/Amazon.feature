@@ -10,5 +10,5 @@ And select item 3
 Then the user is able to add it to the cart
 
   Examples:
-          |Product|
-          |Nintendo    |
+          |Product        |
+          |Playstation    |
