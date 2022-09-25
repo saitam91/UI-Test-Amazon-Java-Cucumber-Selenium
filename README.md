@@ -1,4 +1,4 @@
-# Test Amazon Web Java-Cucumber-Selenium
+# Test Amazon Web / Java-Cucumber-Selenium
 
 ## Resume:
 * This automated UI test framework was created based on BDD carrying out the best testing practices.
