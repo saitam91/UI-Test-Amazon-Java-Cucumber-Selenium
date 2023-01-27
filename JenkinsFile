@@ -1,0 +1,16 @@
+pipeline{
+    agent any
+    tools{
+        gradle "Gradle"
+    }
+
+    stages{
+        stage{
+            steps{
+            git 'https://github.com/saitam91/UI-Test-Amazon-Java-Cucumber-Selenium.git'
+                    sh 'gradle clean'
+            }
+
+        }
+    }
+}
